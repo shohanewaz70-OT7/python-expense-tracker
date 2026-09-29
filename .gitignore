@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+expense_tracker_gui_backup.py
+
+expenses.json
+budget.json
