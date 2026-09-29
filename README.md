@@ -70,6 +70,21 @@ The application will create and use local JSON files for storing expenses and bu
 
 The application provides a graphical interface for entering expenses, viewing transactions, managing a monthly budget, and analyzing spending.
 
+
+## Screenshots
+
+### Main Interface
+
+![Main Expense Tracker Interface](screenshots/main-interface.png.png)
+
+### Category Spending Analysis
+
+![Category Spending Chart](screenshots/category-chart.png.png)
+
+### Monthly Expense Report
+
+![Monthly Expense Report](screenshots/monthly-report.png.png)
+
 ## What I Learned
 
 Through this project, I practiced:
